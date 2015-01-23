@@ -1,0 +1,16 @@
+# Gradle build artifacts
+build/
+
+# Gradle Wrapper
+gradlew
+gradlew.bat
+gradle/
+
+# Eclipse files
+bin/
+.settings/
+
+# Mac files
+.DS_Store
+*.swp
+
